@@ -1,4 +1,4 @@
-# gitL_IDEA
+```java
 import java.util.*;
 
 public class Test04 {
@@ -25,3 +25,4 @@ public class Test04 {
         System.out.println(maxOperations);
     }
 }
+```
